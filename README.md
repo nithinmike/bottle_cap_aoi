@@ -15,3 +15,5 @@ __tools__ - scripts to capture and augment images
 __dataset__ - labeled test and training datasets
 
 __documentation__ - summary of hardware/software approach and some source files for figures and tables.
+
+__reference code__ - https://github.com/mohan696matlab/mvtec_anomalydetection
